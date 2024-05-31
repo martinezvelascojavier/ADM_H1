@@ -1,0 +1,83 @@
+Algorithmic Methods of Data Mining
+Homework 1
+Due: 9/10/2022, 23:59
+Instructions
+You must hand in the homeworks electronically and before the due date and time.
+The first homework has to be done by each person individually.
+Handing in:
+You have to create a public Github repository, that you are going to share with using a google
+form. You can find instructions at:
+https://github.com/lucamaiano/ADM/tree/master/2022/Homework_1
+For information about collaboration, and about being late check the web page.
+Problem 1. The goal of the first assignment focuses on building up your skills on Python. The
+assignment is done electronically using the HACKERRANK online service available from the following
+URL:
+https://www.hackerrank.com
+You must create an account and complete as many challenges as you can from the list included
+below. When you are finished and want to submit your assignment, from the hackerrank site, go
+to the submissions page under your profile and produce a PDF printout. This is available from the
+following url:
+https://www.hackerrank.com/submissions/all
+Your solutions must include as attachment:
+• The pdf file that you created.
+• The Python code of your solutions, clearly organized.
+Don’t forget to check the collaboration policy at the course web page. To summarize,
+you can discuss with each other, but the writing at the end should be yours.
+In addition, you should preferably not look at the solutions provided by HACKERRANK;
+if you do so, you should explicitly mention it in the corresponding response.
+Let’s go to the homework. The Python challenges that you need to complete are the following:
+• Introduction (all – total: 7 - max points: 75)
+https://www.hackerrank.com/domains/python/py-introduction
+• Data types (all – total: 6 - max points: 60)
+https://www.hackerrank.com/domains/python/py-basic-data-types
+• Strings (all – total: 14 - max points: 220)
+https://www.hackerrank.com/domains/python/py-strings
+• Sets (all – total: 13 - max points: 170)
+https://www.hackerrank.com/domains/python/py-sets
+• Collections (all – total: 8 - max points: 220)
+https://www.hackerrank.com/domains/python/py-collections
+• Date and Time (all – total: 2 - max points: 40)
+https://www.hackerrank.com/domains/python/py-date-time
+• Exceptions (only 1 - max points: 10)
+https://www.hackerrank.com/challenges/exceptions
+• Built-ins (only 3 - max points: 80)
+https://www.hackerrank.com/challenges/zipped
+https://www.hackerrank.com/challenges/python-sort-sort
+https://www.hackerrank.com/challenges/ginorts
+• Python Functionals (only 1 - max points: 20)
+https://www.hackerrank.com/challenges/map-and-lambda-expression
+• Regex and Parsing challenges (all – total: 17 - max points: 560)
+https://www.hackerrank.com/domains/python/py-regex
+• XML (all – total: 2 - max points: 40)
+https://www.hackerrank.com/domains/python/xml
+• Closures and Decorations (all – total: 2 - max points: 60)
+https://www.hackerrank.com/domains/python/closures-and-decorators
+Numpy (all – total: 15 - max points: 300)
+https://www.hackerrank.com/domains/python/numpy
+Problem 2. We continue in this question with the implementation of some algorithms in Python.
+As before, when you are finished and want to submit your assignment, from the hackerrank
+site, go to the submissions page under your profile and produce a PDF printout. This is available
+from the following url:
+https://www.hackerrank.com/submissions/all
+Your solutions must include as attachment:
+• The pdf file that you created.
+• The Python code of your solutions, clearly organized.
+Let’s go to the homework. The Python challenges that you need to complete are the following:
+• https://www.hackerrank.com/challenges/birthday-cake-candles
+• https://www.hackerrank.com/challenges/kangaroo
+• https://www.hackerrank.com/challenges/strange-advertising
+• https://www.hackerrank.com/challenges/recursive-digit-sum
+• https://www.hackerrank.com/challenges/insertionsort1
+• https://www.hackerrank.com/challenges/insertionsort2
+Problem 3. The goal of the first assignment focuses on building up your skills on Cloud Computing
+using the AWS ecosystem. The assignment is done electronically using the AWS Academy online
+service and the course Cloud Foundations available from the following URL:
+https://awsacademy.instructure.com/courses/27346
+You must complete the knowledge check of the modules listed below:
+• Module 1 (Global Infrastructure)
+• Module 2 (Structures of the Cloud)
+• Module 3 (AWS Console)
+• Module 4 (Virtual Servers)
+• Module 7 (Security)
+• Module 13 (Emerging Technologies in the Cloud)
+• Module 14 (Billing and Support)
